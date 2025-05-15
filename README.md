@@ -35,7 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://riickyriick.github.io/single-price-component/
+
 ## My process
 
 HTML: --Process began with grouping and naming the classes accordingly. --Double checking for any redundancy within the class names making sure everyhting makes sense semantically
